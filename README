@@ -1,7 +1,7 @@
-litecoin-seeder
+davies-seeder
 ===============
 
-Litecoin-seeder is a crawler for the Litecoin network, which exposes a list
+Davies-seeder is a crawler for the Davies network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
